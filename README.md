@@ -40,12 +40,6 @@
 - [ ] Escribir README explicando la función de cada modelo
 - [ ] Documentar el proceso de entrenamiento de cada modelo
 
-### Programa de Detección de Hallazgos en Torres
-
-- [ ] Agregar proyecto a GitHub
-- [ ] Escribir README con instrucciones de uso
-- [ ] Documentar el flujo de procesamiento
-
 ## ☀️ Paneles Solares
 
 ### Programa de Ajuste de Posición V1
